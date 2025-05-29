@@ -1,3 +1,3 @@
-## DS@GT Kaggle-CLEF
+## DS@GT ARC
 
-We are a competition-focused subgroup that is part of the Data Science @ Georgia Tech club.
+We are a applied research competition (ARC) focused subgroup that is part of the Data Science @ Georgia Tech (DS@GT) student group.
