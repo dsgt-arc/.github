@@ -1,3 +1,3 @@
 ## DS@GT ARC
 
-We are a applied research competition (ARC) focused subgroup that is part of the Data Science @ Georgia Tech (DS@GT) student group.
+We are an applied research competition (ARC) team that is part of the Data Science @ Georgia Tech (DS@GT) student group.
